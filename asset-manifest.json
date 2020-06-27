@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wiytiszen/portfolio/static/css/main.351fb3c4.chunk.css",
+    "main.js": "/Wiytiszen/portfolio/static/js/main.1a836f37.chunk.js",
+    "main.js.map": "/Wiytiszen/portfolio/static/js/main.1a836f37.chunk.js.map",
+    "runtime-main.js": "/Wiytiszen/portfolio/static/js/runtime-main.2f1bfa6c.js",
+    "runtime-main.js.map": "/Wiytiszen/portfolio/static/js/runtime-main.2f1bfa6c.js.map",
+    "static/js/2.ca42dc3b.chunk.js": "/Wiytiszen/portfolio/static/js/2.ca42dc3b.chunk.js",
+    "static/js/2.ca42dc3b.chunk.js.map": "/Wiytiszen/portfolio/static/js/2.ca42dc3b.chunk.js.map",
+    "index.html": "/Wiytiszen/portfolio/index.html",
+    "precache-manifest.ebb9b8a459bc2aea23bb694e92c71e5a.js": "/Wiytiszen/portfolio/precache-manifest.ebb9b8a459bc2aea23bb694e92c71e5a.js",
+    "service-worker.js": "/Wiytiszen/portfolio/service-worker.js",
+    "static/css/main.351fb3c4.chunk.css.map": "/Wiytiszen/portfolio/static/css/main.351fb3c4.chunk.css.map",
+    "static/js/2.ca42dc3b.chunk.js.LICENSE.txt": "/Wiytiszen/portfolio/static/js/2.ca42dc3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1bfa6c.js",
+    "static/js/2.ca42dc3b.chunk.js",
+    "static/css/main.351fb3c4.chunk.css",
+    "static/js/main.1a836f37.chunk.js"
+  ]
+}
